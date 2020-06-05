@@ -1,4 +1,4 @@
-django==1.9.5
+django==1.11.29
 pyodbc==3.0.10
 django-pyodbc-azure==1.9.3.0
 django-sql-server-bcp
